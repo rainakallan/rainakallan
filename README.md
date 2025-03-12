@@ -1,16 +1,21 @@
 ## Hi there 👋
+I am Raina a Frontend Developer & UI/UX Enthusiast who loves building intuitive and visually appealing web applications. Coming from a Senior Support Engineer background, I bring strong problem-solving skills and a keen eye for user experience to frontend development.
 
-<!--
-**rainakallan/rainakallan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+- Constantly learning and building with HTML, CSS, JavaScript, and React
+- Passionate about UI/UX design and crafting seamless user experiences
+- Currently honing my skills in React and frontend best practices
+- Open to collaborating on exciting projects
+- Looking for a Frontend Developer role to apply my skills and grow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🛠️ Tech Stack
+
+Frontend: HTML, CSS, JavaScript, React
+UI/UX: Figma, Wireframing, Prototyping
+Version Control: Git, GitHub
+Other: Responsive Design, Accessibility, Problem Solving
+
+📫 Let's Connect!
+🌐 Portfolio (Coming Soon!)
+[LinkedIn](https://www.linkedin.com/in/raina-kallan-735604195/)
