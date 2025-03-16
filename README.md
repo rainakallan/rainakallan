@@ -17,5 +17,5 @@ Version Control: Git, GitHub
 Other: Responsive Design, Accessibility, Problem Solving
 
 📫 Let's Connect!
-🌐 Portfolio (Coming Soon!)
+
 [LinkedIn](https://www.linkedin.com/in/raina-kallan-735604195/)
